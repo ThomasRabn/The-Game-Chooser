@@ -11,7 +11,7 @@ The Windows binaries can be found in the release section. There is the old and t
 
 ## Issue for recompiling
 
-The first version of the game chooser does not seem to compile in the CodeBlocks project. I did not really look at it, but you can find a debug compilation of this version in the release tab.
+The first version of the game chooser does not seem to compile in the CodeBlocks project. I did not really look into it, but you can find a debug compilation of this version in the release tab.
 
 ## Author 
 
