@@ -3,7 +3,7 @@
 ## The Project
 
 You want to play but you can't choose a game? Perfect, this is the purpose of this little program! Made in C with Allegro library, it allows you to quickly find something to play when you are hesitating between multiple games.\
-It is a quite old project. Thus, the code is not very clean and some files are .cpp while they should be .c. Moreover, it is a CodeBlocks project.
+It is a quite old project. Thus, the code is not very clean and some files are .cpp while they should be .c, and it is a CodeBlocks project.
 
 ## How to install
 
